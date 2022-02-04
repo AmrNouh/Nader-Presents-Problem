@@ -1,0 +1,62 @@
+﻿    /*
+     Npresent -> Maximume Number of Presents Nader Can Buy (#Present in store)
+
+    Npresent > #people * #presents nader will buy for each person
+    where
+        - each person has the same amount of presents
+        - #presents nader will buy fit in budget and bag volume
+
+    Npresent / #people > #presents nader will buy for each person
+
+    budget >= sum of present price of presents nader will buy
+    bag volume >= sum of present volume of presents nader will buy
+     
+     */
+
+
+0-1 Knapsack Problem
+- given "N" items have weight and values.
+- you want to fill a bag of capacity "C" with items to get maximum value.
+
+==> Optimization Problem Can be solved by Greedy Algorithm
+
+=> Knapsack Problem Have Two Type:
+[1] Fractional Knapsack Problem
+		you can take a part of item.
+[2] 0/1 Knapsack Problem
+		you can not take a part of item
+
+0-1 Knapsack Problem Algorithm
+- Consider all Possible Subsequences
+- calculate value of each subsequence
+- take maximun value
+
+Example:
+
+weights = [10, 20, 30]
+values = [60, 100, 120]
+
+Probability:
+{empty}, {10}, {20}, {30}, {10,20}, {10,30}, {20,30}, {10,20,30}
+
+then number of probabitity base on input = 2^n
+Where n is number of Elements
+
+Time Complexety = O(2^N)   !! very very very slow....
+
+
+Example:
+weights = [1, 2, 3]
+values = [60, 100, 120]
+Capacity = 5
+
+Dynamic Programmig means I Will Store Results There Are Two approach:
+[1] Top-Down approach (Memoization)
+[2] Bottom-Up approach (tabulation) => start From smallest Input Then grow it up
+
+
+
+K[i][j] = Max ( (V[i-1] + K[i-1][j - W[i-1]]) , K[i-1][j] ) ==> General Formula
+
+
+

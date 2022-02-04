@@ -1,0 +1,15 @@
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\bin\Debug\net6.0\Challenge.exe
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\bin\Debug\net6.0\Challenge.deps.json
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\bin\Debug\net6.0\Challenge.runtimeconfig.json
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\bin\Debug\net6.0\Challenge.dll
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\bin\Debug\net6.0\ref\Challenge.dll
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\bin\Debug\net6.0\Challenge.pdb
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\Challenge.csproj.AssemblyReference.cache
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\Challenge.dll
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\ref\Challenge.dll
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\Challenge.pdb
+F:\ITI PD 9Month\C#\Day01\Lab\Challenge\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
